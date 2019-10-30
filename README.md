@@ -2,7 +2,7 @@
  Ajax爬取微博
 
 用到的库
-       1.requests
-       2.urllib.parse
-       3.pyquery
-       4.pymongo
+       1.requests /<br>
+       2.urllib.parse /<br>
+       3.pyquery /<br>
+       4.pymongo /<br>
